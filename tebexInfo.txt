@@ -1,0 +1,9 @@
+1 - Créez un package
+2 - Mettez en server command à executer : addVIP {sid}
+3 - Pensez à mettre dans les paramètre de la commande que la commande doit etre executer si le joueur est en ligne.
+
+
+
+↓ EXPORTS ↓
+
+Vous pouvez utiliser l'export : exports.VIP:GetVIP()
